@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **smsb668@gmail.com**
 
-- 📄 Know about my experiences [subodhmansingh.com.np](subodhmansingh.com.np)
+- 📄 Know about my experiences [subodhmansingh.com.np](subodhmansingh.com.np) https://www.artstation.com/subi6688
 
 - ⚡ Fun fact **I have been working in civil engineering projects but currently diving into the depths of IT**
 
