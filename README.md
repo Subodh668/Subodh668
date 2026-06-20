@@ -86,8 +86,8 @@ the journey through **Puntu Studio.**
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | 🎮 Mini Game Pack Vol.1 | 6 Unity mini games — my first studio release | Unity · C# | https://github.com/Subodh668/Unity_First_Game_Collection · [Play](https://thepuntustudio.itch.io) |
-| ✈️ The Yatri | AI-powered gamified travel web app · 🏆 Hackathon Winner | React · MySQL · Groq API | https://github.com/Neo-Spark-2-0/inno-hack |
-| 🏓 DuoPong | ESP32 multiplayer pong over MQTT · 🏆 IoT Fest Winner | ESP32 · Arduino · MQTT · WebSocket | https://github.com/Subodh668/the_yatri |
+| ✈️ The Yatri | AI-powered gamified travel web app · 🏆 Hackathon Winner | React · MySQL · Groq API | https://github.com/Subodh668/the_yatri |
+| 🏓 DuoPong | ESP32 multiplayer pong over MQTT · 🏆 IoT Fest Winner | ESP32 · Arduino · MQTT · WebSocket | https://github.com/Subodh668/DuoPong |
 | 🛒 Neo-Hub | Full-stack IoT e-commerce web app | Java · JSP · Servlet · MySQL | https://github.com/Subodh668/neo-hub |
 | ⌚ The Golden Tick | Responsive e-commerce UI for premium watches | HTML · CSS · JS | https://github.com/Subodh668/the_golden_tick |
 
