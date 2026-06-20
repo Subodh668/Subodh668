@@ -87,9 +87,9 @@ the journey through **Puntu Studio.**
 |---|---|---|---|
 | 🎮 Mini Game Pack Vol.1 | 6 Unity mini games — my first studio release | Unity · C# | https://github.com/Subodh668/Unity_First_Game_Collection · [Play](https://thepuntustudio.itch.io) |
 | ✈️ The Yatri | AI-powered gamified travel web app · 🏆 Hackathon Winner | React · MySQL · Groq API | https://github.com/Neo-Spark-2-0/inno-hack |
-| 🏓 DuoPong | ESP32 multiplayer pong over MQTT · 🏆 IoT Fest Winner | ESP32 · Arduino · MQTT · WebSocket | [GitHub](#) |
-| 🛒 Neo-Hub | Full-stack IoT e-commerce web app | Java · JSP · Servlet · MySQL | https://github.com/Neo-Spark-2-0/neo-hub |
-| ⌚ The Golden Watch | Responsive e-commerce UI for premium watches | HTML · CSS · JS | [GitHub](#) |
+| 🏓 DuoPong | ESP32 multiplayer pong over MQTT · 🏆 IoT Fest Winner | ESP32 · Arduino · MQTT · WebSocket | https://github.com/Subodh668/the_yatri |
+| 🛒 Neo-Hub | Full-stack IoT e-commerce web app | Java · JSP · Servlet · MySQL | https://github.com/Subodh668/neo-hub |
+| ⌚ The Golden Tick | Responsive e-commerce UI for premium watches | HTML · CSS · JS | https://github.com/Subodh668/the_golden_tick |
 
 ---
 
@@ -128,7 +128,5 @@ the journey through **Puntu Studio.**
 <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
-
-📧 Reach me at: **smsb668@gmail.com**
 
 📧 Reach me at: **smsb668@gmail.com** **thepuntustudio@gmail.com**
