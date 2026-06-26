@@ -41,7 +41,7 @@ the journey through **Puntu Studio.**
 
 ## 🎮 What I'm Working On
 
-- 🕹️ Building **Maze Escape Game Protoype** — Unity 3d game 
+- 🕹️ Building **Maze Escape Game Prototype** — Unity 3d game 
 - 🎮 Under development **Mini Game Pack Vol.1** — 6 Unity mini games *(just published 1st version!)*
 - 🎨 Learning **Blender** for original game asset creation
 - 📐 Planning my **Final Year Project** — a full game in Unity
@@ -87,7 +87,7 @@ the journey through **Puntu Studio.**
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | 🎮 Mini Game Pack Vol.1 | 6 Unity mini games — my first studio release | Unity · C# | https://github.com/Subodh668/Unity_First_Game_Collection · [Play/Download: https://thepuntustudio.itch.io/mini-game-pack-vol1 ] |
-| 🕹️ Maze Escape Game | Protorype for 3rd person maze escape 3D game | Unity · C# | https://github.com/thepuntustudio/Unity_Maze_Escape_Game_3d |
+| 🕹️ Maze Escape Game | Prototype for 3rd person maze escape 3D game | Unity · C# | https://github.com/thepuntustudio/Unity_Maze_Escape_Game_3d |
 | ✈️ The Yatri | AI-powered gamified travel web app · 🏆 Hackathon Winner | React · MySQL · Groq API | https://github.com/Subodh668/the_yatri |
 | 🏓 DuoPong | ESP32 multiplayer pong over MQTT · 🏆 IoT Fest Winner | ESP32 · Arduino · MQTT · WebSocket | https://github.com/Subodh668/DuoPong |
 | 🛒 Neo-Hub | Full-stack IoT e-commerce web app | Java · JSP · Servlet · MySQL | https://github.com/Subodh668/neo-hub |
