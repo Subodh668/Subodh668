@@ -44,8 +44,9 @@ the journey through **Puntu Studio.**
 - 🕹️ Building **Maze Escape Game Prototype** — Unity 3d game
 - 🃏 Building **Card Clash** — Medieval themed Card battle Unity 2d game
 - 🎮 Under development **Mini Game Pack Vol.1** — 6 Unity mini games *(just published 1st version!)*
+- 👓 Learning **VR game development** - Using Unity XR toolkit
 - 🎨 Learning **Blender** for original game asset creation
-- 📐 Planning my **Final Year Project** — a full game in Unity
+- 📐 Planning my **Final Year Project** — a full openworld storyline 3d game in Unity
 - 🏗️ Growing **Puntu Studio** — my indie game studio
 
 ---
