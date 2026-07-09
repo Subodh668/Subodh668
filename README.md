@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Subodh Man Singh Bhandari</h1>
+<h1 align="center"> Subodh Man Singh Bhandari</h1>
 
 <h3 align="center">
 Game Developer & 3D Artist · Civil Engineer turned Dev · 
