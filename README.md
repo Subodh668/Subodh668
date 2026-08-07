@@ -32,9 +32,9 @@ the journey through **Puntu Studio.**
 
 ## 🏆 Achievements
 
-- 🥇 **Winner — Hackathon 2025** · Informatics College Pokhara
+- 🥇 **Winner — Hackathon 2026** · Informatics College Pokhara
   *The Yatri — AI-powered gamified travel web app*
-- 🥇 **Winner — IoT Fest 2025** · Informatics College Pokhara
+- 🥇 **Winner — IoT Fest 2026** · Informatics College Pokhara
   *DuoPong — ESP32 multiplayer game over MQTT & WebSocket*
 
 ---
