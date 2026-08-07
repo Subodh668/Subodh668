@@ -25,7 +25,7 @@ College Pokhara** (affiliated to London Metropolitan University),
 building Unity games, crafting Blender assets, and documenting 
 the journey through **Puntu Studio.**
 
-> *Puntu (पुन्टु) means "small" in Nepali — a term of affection. 
+> *Puntu (पुन्टु) means "small" in Nepali a term of affection. 
 > Small studio. Big heart.*
 
 ---
