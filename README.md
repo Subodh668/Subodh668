@@ -13,7 +13,7 @@ Founder of Puntu Studio · Pokhara, Nepal
 
 ## 🎯 About Me
 
-I spent 12 years in civil engineering — designing buildings, 
+I spent 12 years in civil engineering - designing buildings, 
 hotels, and commercial showrooms across Pokhara, and founding 
 **Sukalpa Engineering Consultancy** in 2018.
 
@@ -42,6 +42,9 @@ the journey through **Puntu Studio.**
 ## 🎮 What I'm Working On
 
 - 🕹️ Building **Maze Escape Game** — Unity 3d game
+- 🕹️ Building **Jodau Nepal** — Unity 2d puzzle game for android
+- 🕹️ Building **Devix35** — Unity 3d Neon car racing game for android
+- 🕹️ Building **The Campus Lore** — Unity 3d college simulation game as final year project
 - 🃏 Under development **Card Clash** — Medieval themed Card battle Unity 2d game *(just published 1st version!)*
 - 🎮 Under development **Mini Game Pack Vol.1** — 6 Unity mini games *(just published 1st version!)*
 - 👓 Learning **VR game development** - Using Unity XR toolkit
